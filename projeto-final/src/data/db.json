@@ -1,0 +1,32 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nome": "principal",
+      "email": "principal@gmail.com",
+      "senha": "1234",
+      "tipo": "administrador"
+    },
+    {
+      "id": "9d0f",
+      "nome": "isabella",
+      "email": "isa@gmail.com",
+      "senha": "12345",
+      "tipo": "administrador"
+    },
+    {
+      "id": "a2cb",
+      "nome": "lala",
+      "email": "lala@gmail.com",
+      "senha": "123456",
+      "tipo": "administrador"
+    },
+    {
+      "id": "4f8a",
+      "nome": "jjjjjjj",
+      "email": "jjj@gmail.com",
+      "senha": "1598",
+      "tipo": "Gerente"
+    }
+  ]
+}

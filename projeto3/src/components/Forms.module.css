@@ -1,0 +1,13 @@
+form{
+    background-color: rgb(203, 124, 255);
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+input, textarea, select{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
